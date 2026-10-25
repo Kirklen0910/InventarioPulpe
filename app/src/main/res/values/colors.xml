@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pink_primary">#059669</color>
+    <color name="pink_on_primary">#FFFFFF</color>
+    <color name="pink_soft">#ECFDF5</color>
+    <color name="pink_text">#0F172A</color>
+    <color name="pink_muted">#64748B</color>
+    <color name="pink_surface">#FFFFFF</color>
+    <color name="pink_background">#F8FAFC</color>
+    <color name="pink_border">#E2E8F0</color>
+    <color name="navigation_background">#F1F5F9</color>
+    <color name="navigation_text">#059669</color>
+</resources>
